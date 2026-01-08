@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > 聲明：遮的詞庫是建中個人編輯，難免會有錯誤，若是有發現問題，歡迎提 issue 抑是寄批去 kiantiong7235@gmail.com 反應
 
-建中的教育部臺灣台語輸入法詞庫增補檔案
+建中的[教育部臺灣台語輸入法](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=442)詞庫增補檔案
 
 目前包含下跤幾个表，逐家通看家己的需求匯入家己的輸入法詞庫
 
